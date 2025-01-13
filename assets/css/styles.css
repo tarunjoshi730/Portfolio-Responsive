@@ -231,7 +231,8 @@ img {
 }
 
 .home__blob {
-  fill: var(--first-color);
+  position: absolute;  
+  width: 100%;
 }
 
 .home__blob-img {
